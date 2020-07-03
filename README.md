@@ -1,3 +1,5 @@
+# 行人属性识别 不是reid，加了一些数据增强的东西
+
 ## A Strong Baseline of Pedestrian Attribute Recognition
 
 The code for our paper [Rethinking of Pedestrian Attribute Recognition: Realistic Datasets with Efficient Method](https://arxiv.org/abs/2005.11909).
